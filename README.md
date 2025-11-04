@@ -7,9 +7,7 @@
 
 This dashboard was made for **JOB SEEKERS, JOB TRANSITIONERS, & JOB SWAPPERS** to solve a common problem: information about the data job market is hard to understand, making it difficult to know what demands or roles are relevant. Using a *real-world dataset of 2024 Data Science job posts* (e.g. titles, salaries, locations), the projects provides a single, easy-to-understand interface to detect the market trends and compensation.
 
-## DEMONSTRATED SKILLS
-
-[INSERT FOR HASSAN]
+## DEMONSTRATED SKLLS
 
 - **Data Transformation (ETL) with Power Query:**  Cleaned, shaped, and prepared raw data for analysis by handling blanks, changing data types, and creating columns.
 
